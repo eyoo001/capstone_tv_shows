@@ -4,11 +4,11 @@ Notebook breakdowns
 
 | Number | Name |
 | --- | --- |
-| 00 | [ONLY THIS ONE](./Capstone/Working in Currently/List_of_Shows.ipynb) |
-| 01 | [Wiki](./Capstone/Data/Grabbing Wiki Links & Names.ipynb) |
-| 02 | [Wiki2](./Capstone/Data/Wiki API.ipynb) |
-| 03 | [TVDB](./Capstone/Data/TVDB API.ipynb) |
-| 04 | [OMDB & TMDB](./Capstone/Data/OMDB_TMDB API.ipynb) |
+| 00 | [ONLY THIS ONE](./Capstone/Current_WIP/List_of_Shows.ipynb) |
+| 01 | [Wiki](./Capstone/Data/Grabbing_Wiki_Links_Names.ipynb) |
+| 02 | [Wiki2](./Capstone/Data/Wiki_API.ipynb) |
+| 03 | [TVDB](./Capstone/Data/TVDB_API.ipynb) |
+| 04 | [OMDB & TMDB](./Capstone/Data/OMDB_TMDB_API.ipynb) |
 | 05 | [OMDB](./Capstone/Data/OMDB_API.ipynb) |
 | 06 | [Wiki_Alt](./Capstone/Data/Wiki_Alt.ipynb) |
 | 07 | [TMDB_API](./Capstone/Data/TMDB_API.ipynb) |
