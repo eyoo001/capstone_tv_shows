@@ -4,13 +4,14 @@ Notebook breakdowns
 
 | Number | Name |
 | --- | --- |
-| 01 | [Wiki](./Grabbing Wiki Links & Names.ipynb) |
-| 02 | [Wiki2](./Wiki API.ipynb) |
-| 03 | [TVDB](./TVDB API.ipynb) |
-| 04 | [OMDB & TMDB](./OMDB_TMDB API.ipynb) |
-| 05 | [OMDB](./OMDB_API.ipynb) |
-| 06 | [Wiki_Alt](./Wiki_Alt.ipynb) |
-| 07 | [TMDB_API](./TMDB_API.ipynb) |
+| 00 | [ONLY THIS ONE](./Capstone/Working in Currently/List_of_Shows.ipynb) |
+| 01 | [Wiki](./Capstone/Data/Grabbing Wiki Links & Names.ipynb) |
+| 02 | [Wiki2](./Capstone/Data/Wiki API.ipynb) |
+| 03 | [TVDB](./Capstone/Data/TVDB API.ipynb) |
+| 04 | [OMDB & TMDB](./Capstone/Data/OMDB_TMDB API.ipynb) |
+| 05 | [OMDB](./Capstone/Data/OMDB_API.ipynb) |
+| 06 | [Wiki_Alt](./Capstone/Data/Wiki_Alt.ipynb) |
+| 07 | [TMDB_API](./Capstone/Data/TMDB_API.ipynb) |
 
 
 ## 01
@@ -142,3 +143,7 @@ I intend to use multiple models to try and maximize the efficacy of the final mo
 
 # The Dataset
 
+
+
+How the number of votes on IMDB affect the rating - more ratings will have a slightly lower rating overall
+- Shows that have low popularity with imba score vs shows with high number of ratings having a lower or higher rating
